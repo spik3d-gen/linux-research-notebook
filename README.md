@@ -27,13 +27,13 @@ and so on
 ```
 
 
-## Disclaimer
+# ⚠️ Disclaimer ⚠️
 
 **READ BEFORE YOU START**
 
-**The author bears no responsibility for any misuse, damage, or harm caused by the information or analysis reports contained within this repository**. All materials are provided strictly for educational and research purposes.
+1. **The author bears no responsibility for any misuse, damage, or harm caused by the information or analysis reports contained within this repository**. All materials are provided strictly for educational and research purposes.
 
-If you choose to conduct your own malware research, ensure it is performed **exclusively within isolated environments**
+2. If you choose to conduct your own malware research, ensure it is performed **exclusively within isolated environments**
 
 
 ## About the author
@@ -41,7 +41,8 @@ If you choose to conduct your own malware research, ensure it is performed **exc
 The author of this repository is an enthusiast who studies the behavior of malicious executables and wants to dedicate his life to malware analysis.
 
 **My socials:**
-[![Telegram](https://img.shields.io/badge/JOIN-TELEGRAM-222222?style=flat-square&logo=telegram&logoColor=24A1DE)](https://t.me/spik3dcracked) 
+
+[![Telegram|123](https://img.shields.io/badge/JOIN-TELEGRAM-222222?style=flat-square&logo=telegram&logoColor=24A1DE)](https://t.me/spik3dcracked) 
 
 
 ## Malware table
