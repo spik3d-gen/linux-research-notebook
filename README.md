@@ -1,11 +1,11 @@
-### Linux Malware Research Lab: Overview
----
+## Linux Malware Research Lab: Overview
+
 **Welcome to the Linux Malware Research Lab.** This repository focuses on analyzing popular and recently discovered Linux malware. It is designed for deep-dives into malware behavior and developing methods to counter new threats.
 
 [![Navigation|126](https://img.shields.io/badge/NAVIGATION-MENU-4f5d75?style=flat-square)](#navigation) [![Disclaimer|158](https://img.shields.io/badge/IMPORTANT-DISCLAIMER-db3a34?style=flat-square)](#disclaimer) [![About Me|106](https://img.shields.io/badge/ABOUT-AUTHOR-336b7b?style=flat-square) ](#about-the-author)[![License: MIT|90](https://img.shields.io/badge/LICENSE-MIT-44cc11?style=flat-square)](LICENSE) [![Malware Table](https://img.shields.io/badge/SEE-MALWARE_TABLE-4f5d75?style=flat-square)](#malware-table)
 
----
-### Navigation
+
+## Navigation
 
 The repository is organized by malware classification, with each directory dedicated to a specific type. Inside each classification directory, you will find folders containing disassembled samples.
 
@@ -26,8 +26,8 @@ Each sample folder includes:
 and so on
 ```
 
----
-### Disclaimer
+
+## Disclaimer
 
 **READ BEFORE YOU START**
 
@@ -35,16 +35,16 @@ and so on
 
 If you choose to conduct your own malware research, ensure it is performed **exclusively within isolated environments**
 
----
-### About the author
+
+## About the author
 
 The author of this repository is an enthusiast who studies the behavior of malicious executables and wants to dedicate his life to malware analysis.
 
 **My socials:**
 [![Telegram](https://img.shields.io/badge/JOIN-TELEGRAM-222222?style=flat-square&logo=telegram&logoColor=24A1DE)](https://t.me/spik3dcracked) 
 
----
-### Malware table
+
+## Malware table
 
 This table lists recently analyzed malware samples, including their classification, type, file name, date of analysis, and report path.
 
