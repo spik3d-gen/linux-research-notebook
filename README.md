@@ -27,7 +27,7 @@ and so on
 ```
 
 
-# ⚠️ Disclaimer ⚠️
+# Disclaimer
 
 **READ BEFORE YOU START**
 
