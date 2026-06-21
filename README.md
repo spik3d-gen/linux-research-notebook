@@ -4,11 +4,12 @@
 
 [![Navigation|126](https://img.shields.io/badge/NAVIGATION-MENU-4f5d75?style=flat-square)](#navigation) [![Disclaimer|158](https://img.shields.io/badge/IMPORTANT-DISCLAIMER-db3a34?style=flat-square)](#disclaimer) [![About Me|106](https://img.shields.io/badge/ABOUT-AUTHOR-336b7b?style=flat-square) ](#about-the-author)[![License: MIT|90](https://img.shields.io/badge/LICENSE-MIT-44cc11?style=flat-square)](LICENSE) [![Malware Table](https://img.shields.io/badge/SEE-MALWARE_TABLE-4f5d75?style=flat-square)](#malware-table)
 
-### Navigation
 ---
+### Navigation
+
 The repository is organized by malware classification, with each directory dedicated to a specific type. Inside each classification directory, you will find folders containing disassembled samples.
 
-**Note:** This repository contains research documentation and analysis reports only; it does not host active source code or live malware samples.
+**Note:** This repository contains research documentation and analysis reports only; **it does not host active source code or live malware samples**.
 
 Each sample folder includes:
 
@@ -25,25 +26,27 @@ Each sample folder includes:
 and so on
 ```
 
-### Disclaimer
 ---
+### Disclaimer
+
 **READ BEFORE YOU START**
 
 **The author bears no responsibility for any misuse, damage, or harm caused by the information or analysis reports contained within this repository**. All materials are provided strictly for educational and research purposes.
 
 If you choose to conduct your own malware research, ensure it is performed **exclusively within isolated environments**
 
-### About the author
 ---
+### About the author
+
 The author of this repository is an enthusiast who studies the behavior of malicious executables and wants to dedicate his life to malware analysis.
 
 **My socials:**
 [![Telegram](https://img.shields.io/badge/JOIN-TELEGRAM-222222?style=flat-square&logo=telegram&logoColor=24A1DE)](https://t.me/spik3dcracked) 
 
-### Malware table
 ---
-This table lists recently analyzed malware samples, including their classification, type, file name, date of analysis, and report path.
+### Malware table
 
+This table lists recently analyzed malware samples, including their classification, type, file name, date of analysis, and report path.
 
 | Classification | Type | File Name | Date | Path |
 | -------------- | ---- | --------- | ---- | ---- |
